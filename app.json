@@ -2,7 +2,7 @@
   "expo": {
     "name": "Reloj",
     "slug": "imporkam-vendedores",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -33,7 +33,7 @@
         "android.permission.FOREGROUND_SERVICE",
         "android.permission.FOREGROUND_SERVICE_LOCATION"
       ],
-      "versionCode": 100
+      "versionCode": 101
     },
     "web": {
       "favicon": "./assets/favicon.png"
